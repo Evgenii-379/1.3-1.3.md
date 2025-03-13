@@ -96,29 +96,16 @@
 - Ссылки манифестов : 
 
 [Service.yaml](https://github.com/Evgenii-379/1.3-1.3.md/blob/main/yaml_configs/Service.yaml)
+
 [deployment.yaml](https://github.com/Evgenii-379/1.3-1.3.md/blob/main/yaml_configs/deployment.yaml)
+
 [multitool-pod.yaml](https://github.com/Evgenii-379/1.3-1.3.md/blob/main/yaml_configs/multitool-pod.yaml)
+
 [nginx-deployment.yaml](https://github.com/Evgenii-379/1.3-1.3.md/blob/main/yaml_configs/nginx-deployment.yaml)
+
 [nginx-service.yml](https://github.com/Evgenii-379/1.3-1.3.md/blob/main/yaml_configs/nginx-service.yml)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- ![scrin](https://github.com/
-- ![scrin](https://github.com/
